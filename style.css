@@ -86,7 +86,7 @@
 
 .home::before {
     content: "";
-    background-image: url(/bg.jpg);
+    background-image: url(../bg.jpg);
 
     position: absolute;
     top: 0px;
@@ -172,7 +172,7 @@
 #client-section::before {
     content: "";
     position: absolute;
-    background-image: url(2nd\ bg.jpg);
+    background-image: url(../2nd\ bg.jpg);
     height: 50%;
     width: 100%;
     z-index: -1;
@@ -212,7 +212,7 @@
     opacity: -1px;
 
 
-    background-image: url(/contact-us-flatlay.jpg);
+    background-image: url(../contact-us-flatlay.jpg);
 
 }
 
